@@ -10,7 +10,7 @@
     Hi there, I'm Sk Kabeer!
   </h1>
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9DC76&center=true&vCenter=true&width=500&lines=Python+Developer;CSE+Student;Full-Stack+Enthusiast;Problem+Solver;Tech+Innovator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9DC76&center=true&vCenter=true&width=500&lines=Python+Developer;CSE+Student;Full-Stack+Enthusiast;Problem+Solver" alt="typing svg" />
   </p>
 </div>
 
@@ -18,10 +18,10 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sk-kabeer-373316368)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skkabeer882-png)
-  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4D3D?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kabeer_613)
+  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skkabeer882@gmail.com)
   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=skkabeer882-png.skkabeer882-png)
   
@@ -38,7 +38,8 @@
   💻 **Full-Stack Enthusiast** exploring web technologies  
   🚀 **Continuous Learner** always seeking new challenges  
   ⚡ **Open Source Contributor** dedicated to community-driven projects  
-  🔥 **Tech Innovator** building solutions that matter
+  🔥 **Tech Innovator** building solutions that matter  
+  🏆 **Competitive Programmer** on CodeChef
   
 </div>
 
@@ -95,7 +96,7 @@
 
 <div align="center">
   
-  [![Sk Kabeer's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=skkabeer882-png&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Sk Kabeer's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=skkabeer882-png&theme=tokyo-night&hide_border=true)](https://github.com/skkabeer882-png)
   
 </div>
 
@@ -110,6 +111,7 @@
 - 🎨 Developing full-stack applications
 - 🤝 Contributing to the developer community
 - 💼 Exploring freelance opportunities
+- 🏅 Solving competitive programming problems on CodeChef
 
 ---
 
@@ -124,7 +126,7 @@
   - 🚀 Building amazing projects together
   - 🎓 Learning from experienced developers
   
-  **Feel free to reach out via LinkedIn or GitHub!**
+  **Feel free to reach out via LinkedIn or email!**
   
 </div>
 
@@ -137,9 +139,9 @@
   | Platform | Link |
   |----------|------|
   | 🔗 **GitHub** | [@skkabeer882-png](https://github.com/skkabeer882-png) |
-  | 💼 **LinkedIn** | [Your Profile](https://linkedin.com/in/YOUR-LINK) |
-  | 📧 **Email** | [your-email@gmail.com](mailto:your-email@gmail.com) |
-  | 🌐 **Portfolio** | [yourportfolio.com](https://yourportfolio.com) |
+  | 💼 **LinkedIn** | [sk-kabeer-373316368](https://linkedin.com/in/sk-kabeer-373316368) |
+  | 🏆 **CodeChef** | [kabeer_613](https://www.codechef.com/users/kabeer_613) |
+  | 📧 **Email** | [skkabeer882@gmail.com](mailto:skkabeer882@gmail.com) |
   
 </div>
 
